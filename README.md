@@ -6,8 +6,8 @@
   <a href="https://www.instagram.com/jadylacesario/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-- 🔭 Estudante
-- 🌱 Em constante aprendizado
+- Estudante
+- Em constante aprendizado
 
 ## Estudando
 
