@@ -8,10 +8,3 @@
 
 - Estudante
 - Em constante aprendizado
-
-## Estudando
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" height="40" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" height="40" width="40"">
-</div>
