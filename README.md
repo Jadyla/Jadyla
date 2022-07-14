@@ -8,3 +8,8 @@
 
 - Estudante
 - Em constante aprendizado
+
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jadyla&theme=github_dark" style="height: 150px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadyla&theme=github_dark&layout=compact" style="height: 150px;">
+</div>
